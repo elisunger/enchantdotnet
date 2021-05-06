@@ -16,8 +16,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+### Fixed
+
+- include .dll.config file in nuget package (#1)
+
 ## [1.4.2] - 2019-02-12
 
 ### Changed
 
 - Release as nuget package
+
+
